@@ -1,0 +1,6 @@
+framework module Pods_URLContext {
+  umbrella header "Pods-URLContext-umbrella.h"
+
+  export *
+  module * { export * }
+}
